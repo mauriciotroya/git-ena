@@ -13,5 +13,8 @@
     </head>
     <body>
         <h1>Hello World!</h1>
+        <form method="get" action="menu.jsp">
+            <input type="submit" value="volver menu"/>
+        </form>
     </body>
 </html>

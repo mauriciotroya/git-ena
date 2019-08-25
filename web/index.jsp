@@ -9,10 +9,24 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>Inicio</title>
+        <link href="css/estilo.css" rel="stylesheet"type="text/css"/>
     </head>
     <body>
-        <h1>Hello World!</h1>
-         <link href="login.jsp"/>
-    </body>
+    <center>
+        <table border="3">
+            <br></br>
+            <br></br>
+            <br></br>
+            <br></br>
+            <br></br>
+            <br></br>
+            <form method="get" action="login.jsp">
+                <tr>
+                    <td> <input type="submit" value="iniciar" name="btn_iniciar" /></td>
+                </tr>
+            </form>
+        </table>
+    </center>
+</body>
 </html>

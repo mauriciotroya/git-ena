@@ -1,0 +1,24 @@
+.formulario{
+    width: 350px;
+    height: 150px;
+    margin: auto;
+    border:3px solid #aaa;
+}
+
+.cabecera{
+    font-size: 16px;
+    border:5px solid #ccc;
+}
+
+.input_text{
+    padding: 10px;
+    text-align: center;
+}
+.checkbox{
+    text-align: center;
+}
+.btn_enviar{
+    text-align: center;
+    position: relative;
+    
+}
